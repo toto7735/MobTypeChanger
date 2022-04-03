@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MobTypeChanger">
+    <output-path>$PROJECT_DIR$/../../../../OnAIr/plugins</output-path>
+    <root id="archive" name="MobTypeChanger.jar">
+      <element id="module-output" name="MobTypeChanger" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

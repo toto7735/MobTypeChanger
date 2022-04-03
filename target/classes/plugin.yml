@@ -1,0 +1,5 @@
+name: MobTypeChanger
+version: 1.0
+main: me.toto7735.mobTypeChanger.MobTypeChanger
+api-version: 1.18
+author: toto7735
